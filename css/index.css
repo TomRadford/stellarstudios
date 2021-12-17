@@ -1,0 +1,146 @@
+.header{
+    padding: 20px;
+    color: black;
+}
+
+body{
+    background-color: rgb(5, 4, 4);
+}
+
+#img1{
+    width: 100px;
+}
+
+h1{
+    margin: auto;
+    text-align: center;
+}
+
+.linker{
+    color: #fff;
+    margin: auto;
+}
+
+.navbar-nav > a{
+    padding-left:30px;
+    padding-right:30px;
+}
+
+.bg-dark{
+    background-color: black !important;
+}
+
+.linker{
+    margin-left: 10px;
+    margin-right: 10px;
+    color: grey;
+}
+
+.active{
+    color: #fff;
+}
+
+.inactive{
+    color: grey;
+}
+
+.navbar > .container-fluid {
+    display:-webkit-inline-box !important;
+}
+
+.flexbox{
+    display: flex;
+}
+
+.flex-left{
+    width: 50%;
+    padding: 10px;
+}
+.flex-right{
+    width: 50%;
+}
+
+.flexImage1{
+    width: 100%;
+    /* border: 1px dashed white; */
+}
+.flexImage2{
+    width: 50%;
+    /* border: 1px dashed white; */
+}
+
+.flextText {
+    color: white;
+    padding: 20px;
+    padding-top: 5em;
+    font-size: 24px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#navbarTitle{
+    margin-top: 1em;
+}
+
+.icon-white{
+    color: #fff;
+}
+
+.showReelDiv{
+    /* border: 1px solid rgb(94, 86, 86) !important; */
+    width: 90%;
+    padding: 2em;
+    margin: auto;
+    margin-top: 2em;
+}
+
+#showReel{
+    text-align: center;
+    width: 90%;
+    border: 1px dashed lightgray;
+    height: 550px;
+    margin: auto;
+    color: white;
+    margin-top: 20px;
+
+}
+
+.navbarTitle{
+    margin: 5px !important;
+    font-size: 30px !important;
+}
+
+.navbar-brand{
+    display: inline-flex;
+}
+
+.col{
+    text-align: center;
+    color: white;
+    /* border: 1px white solid; */
+    height: 350px;
+}
+
+.headerRow{
+    height: 100px;
+}
+
+.detailList{
+    height: 100%;
+    list-style-type: none;
+    display: block;
+    position: relative;
+    top: 40%;
+}
+
+.infoText{
+    color: white;
+    width: 80%;
+    margin: auto;
+    font-size: 24px;
+    pad: 2em;
+}
+
+.contactLine{
+    margin-bottom: 0;
+}
