@@ -147,7 +147,7 @@ h1{
     margin-bottom: 0;
 }
 .media-text {
-    color: #fff;
+    color: #fff !important;
 }
 
 iframe {
@@ -167,10 +167,6 @@ iframe {
     }
 
     
-    /* .media-flex {
-        font-size: 10px;
-    } */
-
     .flex-left {
         width: 100%;
         margin: auto;
