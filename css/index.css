@@ -22,6 +22,10 @@ h1{
     margin: auto;
 }
 
+p {
+    color: #fff;
+}
+
 .navbar-nav > a{
     padding-left:30px;
     padding-right:30px;
