@@ -123,6 +123,7 @@ h1{
 
 .headerRow{
     height: 100px;
+    color: #6c757d;
 }
 
 .detailList{
@@ -143,4 +144,69 @@ h1{
 
 .contactLine{
     margin-bottom: 0;
+}
+.media-text {
+    color: #fff;
+}
+
+iframe {
+    width: 100%;
+    height: 650px;
+}
+
+
+@media only screen and (max-width: 800px) {
+
+    body {
+        margin: auto;
+    }
+    .showReelDiv{
+        width: 100%;
+        height: auto;
+    }
+
+    
+    /* .media-flex {
+        font-size: 10px;
+    } */
+
+    .flex-left {
+        width: 100%;
+        margin: auto;
+    }
+    .flex-right {
+        width: 100%;
+        margin: auto;
+    }
+
+    .flextText {
+        padding-top: 2em;
+    }
+
+    .flexbox{
+        display: inline;
+        margin: auto;
+    }
+
+    .row{
+        display: inline;
+        text-align: center;
+    }
+
+    .flexImage2 {
+        width: 75%;
+        height: auto;
+    }
+    iframe {
+        width: 75%;
+        height: auto;
+    }
+
+    h1 {
+        margin: initial;
+    }
+
+    .mobileResponse {
+        text-align: center;
+    }
 }
